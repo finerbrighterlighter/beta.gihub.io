@@ -44,7 +44,7 @@ Occasionally, I take [photos of stuffs](https://unsplash.com/@finerbrighterlight
 ### August 2021 - Present
 [CEB Data Warehouse](https://www.rama.mahidol.ac.th/ceb/CEBdatawarehouse "Introduction")
 
-> Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand
+> Department of Clinical Epidemiology and Biostatistics,<br/>Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand
 
 <hr />
 
@@ -52,7 +52,9 @@ Occasionally, I take [photos of stuffs](https://unsplash.com/@finerbrighterlight
 
 [Clinical prediction of Chronic Periodontitis Using Machine Learning](https://www.researchgate.net/project/Risk-Factor-based-Diagnosis-for-Chronic-Periodontitis-using-Machine-Learning-Models "ResearchGate")
 
-> Thesis:[Risk-factor based Diagnosis for Chronic Periodontitis using Machine Learning models](https://htunteza.com/docs/msc_thesis.pdf "Thesis")
+Thesis:
+
+> [Risk-factor based Diagnosis for Chronic Periodontitis using Machine Learning models](https://htunteza.com/docs/msc_thesis.pdf "Thesis")
 >
 > Advisors: [Dr. Anuchate Pattanateepapon](https://orcid.org/0000-0003-1246-9482), [Dr. Attawood Lertpimonchai](https://orcid.org/0000-0003-2501-1534), [Prof. Dr. Ammarin Thakkinstian](https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao)
 
@@ -67,10 +69,14 @@ Proceeding:
 ### August 2020
 [Epidemiological characteristics of SARS-COV-2 in Myanmar](https://www.researchgate.net/project/Epidemiology-of-SARS-CoV-2-in-Myanmar)
 
-> Preprint: Epidemiological characteristics of SARS-COV-2 in Myanmar
+Preprint: 
+
+> Epidemiological characteristics of SARS-COV-2 in Myanmar
 >
 > [Medrxiv](https://www.medrxiv.org/content/10.1101/2020.08.02.20166504v1)
     
-> Proceeding: Epidemiological characteristics of SARS-COV-2 in Myanmar : First Wave Experiences
+Proceeding:
+
+> Epidemiological characteristics of SARS-COV-2 in Myanmar : First Wave Experiences
 >
 > 28th Myanmar Military Medical Conference
