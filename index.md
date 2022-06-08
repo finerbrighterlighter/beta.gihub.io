@@ -7,9 +7,9 @@ layout: default
 
 From Myanmar (Burma), but I consider myself a citizen of where I am sleeping today. 
 
-I did practice dentistry until the graduation in 2018 and never looked back since. 
+I did practice dentistry until graduation in 2018 and never looked back since. 
 
-Currently based in Bangkok Thailand, I am working in health care research, concentrating in data science and clinical data research. 
+Currently based in [Bangkok](## "Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit") of Thailand, I am working in health care research, concentrating in data science and clinical data research. 
 
 Mainly interested in secondary data research, I am enthused to explore **why, what, and how we should reuse** regarding electronic medical records and data collected for other purposes. 
 
