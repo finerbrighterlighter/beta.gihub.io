@@ -19,6 +19,8 @@ In my free time, I prefer to keep myself in my room, listening to music, walking
 
 Here's a playlist of my most listened songs in [2022](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2022"), [2021](https://music.apple.com/th/playlist/replay-2021/pl.rp-8AA9cXvO44Xo "Replay 2021"), [2020](https://music.apple.com/th/playlist/replay-2020/pl.rp-P449SYAZaaYV "Replay 2020"), and [2019](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2019"). And yes, Hamilton was released on Disney+ in 2020.
 
+Occasionally, I take [photos of stuffs](https://unsplash.com/@finerbrighterlighter "Unsplash"). Here's [my MAL profile](https://myanimelist.net/profile/fibrili "MyAnimeList"), but I only update them when I feel like it.
+
 <hr />
 
 # Employment
@@ -44,6 +46,8 @@ Here's a playlist of my most listened songs in [2022](https://music.apple.com/th
 
 > Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand
 
+<hr />
+
 ### July 2020 - August 2021
 
 [Clinical prediction of Chronic Periodontitis Using Machine Learning](https://www.researchgate.net/project/Risk-Factor-based-Diagnosis-for-Chronic-Periodontitis-using-Machine-Learning-Models "ResearchGate")
@@ -57,6 +61,8 @@ Proceeding:
 > Clinical Prediction of Chronic Periodontitis
 >
 > [The 7th Regional Conference on Graduate Research 2021](https://www.spu.ac.th/uploads/contents/20210319220256.pdf "Page 45")
+
+<hr />
 
 ### August 2020
 [Epidemiological characteristics of SARS-COV-2 in Myanmar](https://www.researchgate.net/project/Epidemiology-of-SARS-CoV-2-in-Myanmar)
