@@ -6,19 +6,27 @@ layout: default
 
 From Myanmar (Burma), but I consider myself a citizen of where I am sleeping today. 
 
-I did practice dentistry as my undergraduate study until the graduation in 2018 and never looked back since. 
+I did practice dentistry until the graduation in 2018 and never looked back since. 
 
 Currently based in Bangkok Thailand, I am working in the field of health care research, concentrating in data science and clinical data research. Mainly interested in secondary data research, I am enthused to explore why we should reuse, what we should reuse, how we should reuse regarding electronic medical records and data collected for other purposes. I mainly work with Python with occasional R for resource limitations.
 
 In my free time, I prefer to keep myself in my room, listening to music, walking around with a headset or watching tv shows on repeat.
 
-Here's a playlist of my most listened songs in [2022](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2022"), [2021](https://music.apple.com/th/playlist/replay-2021/pl.rp-8AA9cXvO44Xo "Replay 2021"), [2020](https://music.apple.com/th/playlist/replay-2020/pl.rp-P449SYAZaaYV "Replay 2020"), and [2019](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2019"). And yes, 2020 was the year Hamilton was released on Disney+.
+Here's a playlist of my most listened songs in [2022](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2022"), [2021](https://music.apple.com/th/playlist/replay-2021/pl.rp-8AA9cXvO44Xo "Replay 2021"), [2020](https://music.apple.com/th/playlist/replay-2020/pl.rp-P449SYAZaaYV "Replay 2020"), and [2019](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2019"). And yes, Hamilton was released on Disney+ in 2020.
 
-## Header 2
+## Employment
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Time    | Position         | Affiliation | 
+|:------- |:------------------|:----------|
+| August 2021 - Present | Graduate Research Assistant | Data Science and Clinical Informatics Division,<br/>(Department of Clinical Epidemiology and Biostatistics)[https://www.rama.mahidol.ac.th/ceb/], Faculty of Medicine Ramathibodi Hospital, <br/>Mahidol University, Bangkok, Thailand  | 
+
+## Education
+
+| Time    | Position         | Affiliation | 
+|:------- |:------------------|:----------|
+| July 2019 - July 2021 | Master of Science (Data Science for Healthcare) | (Mahidol University)[https://mahidol.ac.th/], Bangkok, Thailand  | 
+| December 2012 - December 2018 | Bachelor of Dental Surgery | (University of Dental Medicine)[http://udmyangon-edu.com/], Yangon, Myanmar  | 
+
 
 ### Header 3
 
