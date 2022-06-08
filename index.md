@@ -9,17 +9,17 @@ From Myanmar (Burma), but I consider myself a citizen of where I am sleeping tod
 
 I did practice dentistry until graduation in 2018 and never looked back since. 
 
-Currently based in [Bangkok](## "Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit") of Thailand, I am working in health care research, concentrating in data science and clinical data research. 
+Currently based in [Bangkok](a "Krungthepmahanakhon Amonrattanakosin Mahintharayutthaya Mahadilokphop Noppharatratchathaniburirom Udomratchaniwetmahasathan Amonphimanawatansathit Sakkathattiyawitsanukamprasit") of Thailand, I am working in health care research, concentrating in data science and clinical data research. 
 
-Mainly interested in secondary data research, I am enthused to explore **why, what, and how we should reuse** regarding electronic medical records and data collected for other purposes. 
+Mainly fascinated with secondary data research, I am enthused to explore **why, what, and how we should reuse** regarding electronic medical records and data collected for other purposes. 
 
-I majorly work with Python with occasional R.
+I majorly code in Python with occasional R.
 
-In my free time, I prefer to keep myself in my room, listening to music, walking around with a headset or watching tv shows/anime on repeat.
+In my free time, I prefer to keep myself in my room; listening to music, walking around with a headset or watching tv shows/anime on repeat.
 
 Here's a playlist of my most listened songs in [2022](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2022"), [2021](https://music.apple.com/th/playlist/replay-2021/pl.rp-8AA9cXvO44Xo "Replay 2021"), [2020](https://music.apple.com/th/playlist/replay-2020/pl.rp-P449SYAZaaYV "Replay 2020"), and [2019](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2019"). And yes, Hamilton was released on Disney+ in 2020.
 
-Occasionally, I take [photos of stuffs](https://unsplash.com/@finerbrighterlighter "Unsplash"). Here's [my MAL profile](https://myanimelist.net/profile/fibrili "MyAnimeList"), but I only update them when I feel like it.
+Occasionally, I take [photos of stuffs](https://unsplash.com/@finerbrighterlighter "Unsplash"). Here's [my MAL profile](https://myanimelist.net/profile/fibrili "MyAnimeList"), but I usually fail to update.
 
 <hr />
 
