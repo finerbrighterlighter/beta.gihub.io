@@ -33,7 +33,8 @@ Here's a playlist of my most listened songs in [2022](https://music.apple.com/th
 ## Publications, Conferences and Preprints
 
 ### August 2021 - Present
-> [CEB Data Warehouse](https://www.rama.mahidol.ac.th/ceb/CEBdatawarehouse "Introduction")
+[CEB Data Warehouse](https://www.rama.mahidol.ac.th/ceb/CEBdatawarehouse "Introduction")
+
 > Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine Ramathibodi Hospital, Mahidol University, Bangkok, Thailand
 
 ### July 2020 - August 2021
