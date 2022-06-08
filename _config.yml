@@ -1,9 +1,8 @@
 title: HTUN TEZA
 logo: /assets/img/me_home.png
 email: htun.tez@mahidol.edu
-description: To replace Automatics with Intelligent
+description: To replace Automatic with Intelligent
 show_downloads: false
-google_analytics: UA-108144808-1
 color-scheme: auto
 plugins:
   - jekyll-sitemap

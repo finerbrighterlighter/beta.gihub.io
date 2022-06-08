@@ -37,11 +37,17 @@ Here's a playlist of my most listened songs in [2022](https://music.apple.com/th
 ### July 2020 - August 2021
 
 [Clinical prediction of Chronic Periodontitis Using Machine Learning](https://www.researchgate.net/project/Risk-Factor-based-Diagnosis-for-Chronic-Periodontitis-using-Machine-Learning-Models "ResearchGate")
+
 Thesis: 
+
 >[Risk-factor based Diagnosis for Chronic Periodontitis using Machine Learning models](https://htunteza.com/docs/msc_thesis.pdf "Thesis")
-> Advisors; [Dr. Anuchate Pattanateepapon](https://orcid.org/0000-0003-1246-9482), [Dr. Attawood Lertpimonchai](https://orcid.org/0000-0003-2501-1534), [https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao)
+>
+> Advisors; [Dr. Anuchate Pattanateepapon](https://orcid.org/0000-0003-1246-9482), [Dr. Attawood Lertpimonchai](https://orcid.org/0000-0003-2501-1534), [Prof. Dr. Ammarin Thakkinstian](https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao)
+
 Proceeding:
+
 > Clinical Prediction of Chronic Periodontitis
+>
 > [The 7th Regional Conference on Graduate Research 2021](https://www.spu.ac.th/uploads/contents/20210319220256.pdf "Page 45")
 
 ### August 2020
