@@ -15,7 +15,7 @@ Mainly interested in secondary data research, I am enthused to explore **why, wh
 
 I majorly work with Python with occasional R.
 
-In my free time, I prefer to keep myself in my room, listening to music, walking around with a headset or watching tv shows on repeat.
+In my free time, I prefer to keep myself in my room, listening to music, walking around with a headset or watching tv shows/anime on repeat.
 
 Here's a playlist of my most listened songs in [2022](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2022"), [2021](https://music.apple.com/th/playlist/replay-2021/pl.rp-8AA9cXvO44Xo "Replay 2021"), [2020](https://music.apple.com/th/playlist/replay-2020/pl.rp-P449SYAZaaYV "Replay 2020"), and [2019](https://music.apple.com/th/playlist/replay-2019/pl.rp-BooEUbOj66bP "Replay 2019"). And yes, Hamilton was released on Disney+ in 2020.
 
@@ -48,11 +48,9 @@ Here's a playlist of my most listened songs in [2022](https://music.apple.com/th
 
 [Clinical prediction of Chronic Periodontitis Using Machine Learning](https://www.researchgate.net/project/Risk-Factor-based-Diagnosis-for-Chronic-Periodontitis-using-Machine-Learning-Models "ResearchGate")
 
-Thesis: 
-
->[Risk-factor based Diagnosis for Chronic Periodontitis using Machine Learning models](https://htunteza.com/docs/msc_thesis.pdf "Thesis")
+> Thesis:[Risk-factor based Diagnosis for Chronic Periodontitis using Machine Learning models](https://htunteza.com/docs/msc_thesis.pdf "Thesis")
 >
-> Advisors; [Dr. Anuchate Pattanateepapon](https://orcid.org/0000-0003-1246-9482), [Dr. Attawood Lertpimonchai](https://orcid.org/0000-0003-2501-1534), [Prof. Dr. Ammarin Thakkinstian](https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao)
+> Advisors: [Dr. Anuchate Pattanateepapon](https://orcid.org/0000-0003-1246-9482), [Dr. Attawood Lertpimonchai](https://orcid.org/0000-0003-2501-1534), [Prof. Dr. Ammarin Thakkinstian](https://scholar.google.com/citations?user=HW_DvVYAAAAJ&hl=en&oi=ao)
 
 Proceeding:
 
@@ -62,13 +60,11 @@ Proceeding:
 
 ### August 2020
 [Epidemiological characteristics of SARS-COV-2 in Myanmar](https://www.researchgate.net/project/Epidemiology-of-SARS-CoV-2-in-Myanmar)
-Preprint:
 
-> Epidemiological characteristics of SARS-COV-2 in Myanmar
-
+> Preprint: Epidemiological characteristics of SARS-COV-2 in Myanmar
+>
 > [Medrxiv](https://www.medrxiv.org/content/10.1101/2020.08.02.20166504v1)
-Proceeding:
-
-> Epidemiological characteristics of SARS-COV-2 in Myanmar : First Wave Experiences
-
+    
+> Proceeding: Epidemiological characteristics of SARS-COV-2 in Myanmar : First Wave Experiences
+>
 > 28th Myanmar Military Medical Conference
