@@ -3,12 +3,17 @@ layout: default
 ---
 
 # About me
+-------
 
 From Myanmar (Burma), but I consider myself a citizen of where I am sleeping today. 
 
 I did practice dentistry until the graduation in 2018 and never looked back since. 
 
-Currently based in Bangkok Thailand, I am working in the field of health care research, concentrating in data science and clinical data research. Mainly interested in secondary data research, I am enthused to explore why we should reuse, what we should reuse, how we should reuse regarding electronic medical records and data collected for other purposes. I mainly work with Python with occasional R for resource limitations.
+Currently based in Bangkok Thailand, I am working in health care research, concentrating in data science and clinical data research. 
+
+Mainly interested in secondary data research, I am enthused to explore **why, what, and how we should reuse** regarding electronic medical records and data collected for other purposes. 
+
+I majorly work with Python with occasional R.
 
 In my free time, I prefer to keep myself in my room, listening to music, walking around with a headset or watching tv shows on repeat.
 
@@ -29,8 +34,10 @@ Here's a playlist of my most listened songs in [2022](https://music.apple.com/th
 | July 2019 - July 2021 | Master of Science (Data Science for Healthcare) | [Mahidol University](https://mahidol.ac.th/), Bangkok, Thailand  | 
 | December 2012 - December 2018 | Bachelor of Dental Surgery | [University of Dental Medicine](http://udmyangon-edu.com/), Yangon, Myanmar  | 
 
+=======
 # Projects
 ## Publications, Conferences and Preprints
+-------
 
 ### August 2021 - Present
 [CEB Data Warehouse](https://www.rama.mahidol.ac.th/ceb/CEBdatawarehouse "Introduction")
@@ -56,8 +63,12 @@ Proceeding:
 ### August 2020
 [Epidemiological characteristics of SARS-COV-2 in Myanmar](https://www.researchgate.net/project/Epidemiology-of-SARS-CoV-2-in-Myanmar)
 Preprint:
+
 > Epidemiological characteristics of SARS-COV-2 in Myanmar
+
 > [Medrxiv](https://www.medrxiv.org/content/10.1101/2020.08.02.20166504v1)
 Proceeding:
+
 > Epidemiological characteristics of SARS-COV-2 in Myanmar : First Wave Experiences
+
 > 28th Myanmar Military Medical Conference
