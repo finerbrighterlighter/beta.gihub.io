@@ -1,7 +1,7 @@
 title: HTUN TEZA
 logo: /assets/img/logo.png
-email: bogus at gmail dot com
-description: ကိုယ်ထင် ကုတင် ရွှေနန်း
+email: htun.tez@mahidol.edu
+description: Replace Automatics with Intelligence
 show_downloads: false
 google_analytics: UA-108144808-1
 color-scheme: auto
@@ -13,7 +13,7 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
   - name: LinkedIn
-    icon: <i class=fa-brands fa-linkedin fa-lg"></i>
+    icon: <i class="fa-brands fa-linkedin fa-lg"></i>
     link: https://www.linkedin.com/in/htunteza/
   - name: ResearchGate
     icon: <i class="fa-brands  fa-researchgate fa-lg"></i>
